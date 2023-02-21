@@ -1,0 +1,2 @@
+cd C:\xampp\htdocs\myblog3
+php artisan serve
